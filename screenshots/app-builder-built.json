@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Coupon King",
+      "hasCanvas": false,
+      "bodyTextLen": 2117,
+      "bodyTextHash": "b7e2efbadda883ea0cf4e9eb44dedb0df719bd588b47cb88439aeb5b60a9f66f",
+      "bodyTextPrefix": "Coupon King Thomaston, CT 06787 $49.61 1 stop with gas Radius fr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Coupon King",
+      "hasCanvas": false,
+      "bodyTextLen": 772,
+      "bodyTextHash": "dcecd21c7eb47c686cebf9f46ef01cfa111d1d2cc9c58935014c63ed83a2c789",
+      "bodyTextPrefix": "Coupon King Thomaston, CT 06787 $49.61 1 stop with gas Radius fr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
